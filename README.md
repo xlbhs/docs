@@ -4,12 +4,9 @@
 ## 3.小组成员、分工及 GitHub 主页：
 姓名|	学号	| GitHub	| 分工
 -|-|-|-
-王馨远|	2112190510|	https://github.com/SUJIANDANMO666|
-服务端|
-岑奕侃|	2112190512|	https://github.com/xlbhs|
-数据库以及接口|
-梁宝丹|	2112190536|	https://github.com/may0307|
-移动端|
+王馨远|	2112190510|	https://github.com/SUJIANDANMO666|服务端|
+岑奕侃|	2112190512|	https://github.com/xlbhs|数据库以及接口|
+梁宝丹|	2112190536|	https://github.com/may0307|移动端|
 
 ## 4.程序功能描述
 •	用户可以查找影片<br> 
